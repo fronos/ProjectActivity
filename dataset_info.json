@@ -1,0 +1,16 @@
+{
+    "info":
+    {
+        "description": "Test dataset",
+        "version": "1",
+        "url": "no-url/datasets.com",
+        "year": 2020,
+        "contributor": "Oleg Botnar",
+        "date_created": "01/04/2020"
+    },
+    "license":{
+        "url":"no-url/licenses.com",
+        "id": 0,
+        "name": "testing"
+    }
+}
